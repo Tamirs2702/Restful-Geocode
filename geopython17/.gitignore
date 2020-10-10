@@ -1,0 +1,12 @@
+#Pycharm
+.idea/
+
+#python
+venv/
+*pyc
+
+# Ignore local logs
+logs/
+
+# Mac
+.DS_Store
